@@ -1,0 +1,41 @@
+body {
+    margin-left: 10%;
+    margin-right: 15%;
+    margin-bottom: 5%;
+    font-family: 'Space Mono', monospace;
+    color: #000;
+}
+
+#header {
+    margin-bottom: 5%;
+    margin-left: -2%;
+    margin-right: -2%;
+    padding: 2%;
+    border-bottom: 2px solid #000;
+}
+
+h1,
+h2,
+h3 {
+    font-family: "bookman-jf-pro", serif;
+    font-weight: 400;
+}
+
+h1 {
+    margin-bottom: -1%;
+    font-style: italic;
+}
+
+h2,
+h3 {
+    margin-bottom: -2%;
+    font-style: normal;
+}
+
+a {
+    color: #000;
+}
+
+a:hover {
+    font-style: italic;
+}
