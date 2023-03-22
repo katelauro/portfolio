@@ -39,3 +39,9 @@ a {
 a:hover {
     font-style: italic;
 }
+
+.portfolioimg {
+    margin-left: 10%;
+    margin-right: 15%;
+    width:fit-content;
+}
