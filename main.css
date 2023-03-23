@@ -40,8 +40,9 @@ a:hover {
     font-style: italic;
 }
 
-.portfolioimg {
-    margin-left: 10%;
-    margin-right: 15%;
-    width:fit-content;
+img.portfolioimg {
+    display:block;
+    width:80%;
+    margin-top:2%;
+    margin-bottom:-2%;
 }
